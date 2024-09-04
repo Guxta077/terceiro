@@ -1,4 +1,11 @@
  body{
     color:black;
     background:white;
- }
+   }
+   
+   header {
+      border: solid 2px blue;
+   }
+   section {
+      background: (rgb(3, 3, 105));
+   }
